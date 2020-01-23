@@ -1,6 +1,6 @@
 Bookmarks App -Hsin Ling Hu
 
-GH-Pages Link: https://thinkful-ei-leopard.github.io/hsinling-bookmark-app/.
+Live Page Link: https://thinkful-ei-leopard.github.io/hsinling-bookmark-app/.
 
 
 User Stories
