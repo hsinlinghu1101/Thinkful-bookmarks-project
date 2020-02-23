@@ -93,7 +93,7 @@ function generateItemList(item) {
   if(item.expanded === true){
     desc = `<div><label for="description">Description:</label> ${item.desc}</div>`;
     buttonName ='Show less';
-    url = `<a href="${item.url}"><button>Visit Site</button></a>`;
+    url = `<a href="${item.url}" target="_blank"><button>Visit Site</button></a>`;
     deleteButton = '<button class="deleteItem">Delete <i class="fa fa-trash-o"></i></button>';
     editButton = '<button class="editItem"> <span id="openclose">Edit/Close</span></button>';
     saveEditbutton ='<button class="saveedit" default>Save Edit</button>';
